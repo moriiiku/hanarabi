@@ -24,7 +24,7 @@ body {
 }
 
 .new-icon {
-    width: 50px; /* サイズを指定 */
+    width: 35px; /* サイズを指定 */
     height: auto; /* アスペクト比を維持 */
     display: inline-block; /* インライン要素として扱う */
     vertical-align: middle; /* 他のテキストや要素と中央揃え */
